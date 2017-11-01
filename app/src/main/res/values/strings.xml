@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Esto debe integrarse a la aplicacion principal</string>
+
+    <!--- Textos del login activiti -->
+
+    <string name="LoginNombreHint">Ingrese su nombre de usuario o el email con el que se registró</string>
+    <string name="LoginPasswordHint">Ingrese su Clave</string>
+    <string name="LoginTituloText">Pantalla de ingreso</string>
+    <string name="LoginBotonAceptar">Aceptar</string>
+    <string name="LoginBotonRegistrarse">Registrarse</string>
+    <string name="LoginBotonInvitado">Invitado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
